@@ -27,7 +27,9 @@
 	"Clear C2",
 	"Flag C1",
 	"Flag B5",
-	"Clear A5"
+	"Clear A5",
+	"Clear A6",
+	"Clear B6"
   ]
   
 }
